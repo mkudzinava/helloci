@@ -6,7 +6,7 @@
 *.bak
 *.ncb
 *.log 
-*.testtesttest
+*.testtesttesttest
 target/
 .classpath
 .project
